@@ -1,9 +1,9 @@
 <h1 align="center">Hello👋, I'm PRIYANSHU SINGH PARIHAR</h1>
 <h3 align="center">👨‍💼 Versatile Information Technology Graduate | Aspiring Full Stack Java Developer | Experienced Web Developer | Passionate about Financial Markets | Accomplished Artist</h3>
 
-- 👨‍💻 All of my projects are available at [https://praathampatel.netlify.app/](https://praathampatel.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://praathampatel.netlify.app/](https://priyanshuparihar.netlify.app/)
 
-- 💬 Ask me about **reactjs , Java , MySql , spring , **
+- 💬 Ask me about **Trading , Art , Java , Reactjs , History **
 
 - 📫 How to reach me **priyanshuparihar77@gmail.com**
 
